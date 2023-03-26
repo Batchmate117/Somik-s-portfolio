@@ -43,6 +43,6 @@ section{
 }
 .sec2{
     background-image: url(imges/top-banner.jpg);
-    background-position:left;
+    background-position: right;
     background-repeat: no-repeat;
 }
